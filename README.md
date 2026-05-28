@@ -1,4 +1,4 @@
-## 👥 Peran & Kontribusi Spesifik (Data Science)
+## Data Science
 
 Dalam proyek pengembangan **FinSmart** ini, saya bertanggung jawab penuh sebagai **Data Scientist** untuk mengawal siklus pengelolaan dan analisis data dari hulu ke hilir (*end-to-end data lifecycle*). Berikut adalah rincian kontribusi konkret yang saya lakukan:
 
