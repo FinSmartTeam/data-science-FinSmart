@@ -1,0 +1,342 @@
+Date,Description,Amount,TransactionCategory,PaymentMethod,TransactionType,Weekday,Month
+2026-01-01,Uang Saku Bulanan dari Ortu,2000000,Allowance / Salary,Transfer Bank,Income,Thursday,2026-01
+2026-01-01,Makan siang di kantin kampus,20809,Food & Dining,Tunai,Expenses,Thursday,2026-01
+2026-01-01,Sarapan bubur ayam komplek,13136,Food & Dining,QRIS,Expenses,Thursday,2026-01
+2026-01-02,Makan siang di kantin kampus,12584,Food & Dining,Tunai,Expenses,Friday,2026-01
+2026-01-02,Bayar parkir mall/kampus,24799,Others,QRIS,Expenses,Friday,2026-01
+2026-01-02,Makan malam Warteg,27175,Food & Dining,QRIS,Expenses,Friday,2026-01
+2026-01-03,Jajan Mixue bareng teman,39158,Food & Dining,QRIS,Expenses,Saturday,2026-01
+2026-01-04,Makan siang di kantin kampus,49793,Food & Dining,QRIS,Expenses,Sunday,2026-01
+2026-01-05,Fotokopi tugas kuliah,13805,Education,QRIS,Expenses,Monday,2026-01
+2026-01-05,Beli aksesoris gadget,35172,Shopping,QRIS,Expenses,Monday,2026-01
+2026-01-06,Top up e-money Commuter Line,28376,Transportation,QRIS,Expenses,Tuesday,2026-01
+2026-01-06,Makan siang di kantin kampus,21499,Food & Dining,Tunai,Expenses,Tuesday,2026-01
+2026-01-07,Beli aksesoris gadget,24143,Shopping,QRIS,Expenses,Wednesday,2026-01
+2026-01-07,Sarapan bubur ayam komplek,22196,Food & Dining,QRIS,Expenses,Wednesday,2026-01
+2026-01-08,Kebutuhan harian Alfamart,33993,Groceries,QRIS,Expenses,Thursday,2026-01
+2026-01-08,Checkout barang di Tokopedia,34650,Shopping,Tunai,Expenses,Thursday,2026-01
+2026-01-09,Isi pulsa paket data internet,15925,Bills & Utilities,QRIS,Expenses,Friday,2026-01
+2026-01-09,Beli cemilan & air mineral,15443,Groceries,QRIS,Expenses,Friday,2026-01
+2026-01-09,Gojek ke stasiun,11988,Transportation,QRIS,Expenses,Friday,2026-01
+2026-01-09,Makan Shihlin / McD,22655,Food & Dining,QRIS,Expenses,Friday,2026-01
+2026-01-10,Sarapan bubur ayam komplek,19287,Food & Dining,QRIS,Expenses,Saturday,2026-01
+2026-01-10,Patungan kado teman wisuda,13748,Others,QRIS,Expenses,Saturday,2026-01
+2026-01-11,Bayar parkir mall/kampus,33774,Others,QRIS,Expenses,Sunday,2026-01
+2026-01-12,Sarapan bubur ayam komplek,17578,Food & Dining,QRIS,Expenses,Monday,2026-01
+2026-01-12,Nongkrong di Coffee Shop,15976,Food & Dining,QRIS,Expenses,Monday,2026-01
+2026-01-13,Nongkrong di Coffee Shop,12735,Food & Dining,QRIS,Expenses,Tuesday,2026-01
+2026-01-13,Makan malam Warteg,28722,Food & Dining,Tunai,Expenses,Tuesday,2026-01
+2026-01-13,Beli aksesoris gadget,31687,Shopping,Tunai,Expenses,Tuesday,2026-01
+2026-01-14,Beli Kopi Susu Kekinian,11992,Food & Dining,QRIS,Expenses,Wednesday,2026-01
+2026-01-14,Isi bensin Pertalite motor,31356,Transportation,Tunai,Expenses,Wednesday,2026-01
+2026-01-15,Nongkrong di Coffee Shop,41352,Food & Dining,Tunai,Expenses,Thursday,2026-01
+2026-01-16,Makan Shihlin / McD,12480,Food & Dining,Tunai,Expenses,Friday,2026-01
+2026-01-16,Makan siang di kantin kampus,30513,Food & Dining,Tunai,Expenses,Friday,2026-01
+2026-01-17,Makan Shihlin / McD,12614,Food & Dining,QRIS,Expenses,Saturday,2026-01
+2026-01-17,Nasi Padang lauk ayam,39536,Food & Dining,QRIS,Expenses,Saturday,2026-01
+2026-01-18,Nasi Padang lauk ayam,26204,Food & Dining,Tunai,Expenses,Sunday,2026-01
+2026-01-18,Beli aksesoris gadget,19699,Shopping,QRIS,Expenses,Sunday,2026-01
+2026-01-19,Gojek ke stasiun,39089,Transportation,QRIS,Expenses,Monday,2026-01
+2026-01-20,Langganan Spotify Premium,23512,Entertainment,QRIS,Expenses,Tuesday,2026-01
+2026-01-20,Beli Kopi Susu Kekinian,40830,Food & Dining,Tunai,Expenses,Tuesday,2026-01
+2026-01-21,Checkout barang di Tokopedia,25471,Shopping,Tunai,Expenses,Wednesday,2026-01
+2026-01-21,Makan malam Warteg,6604,Food & Dining,QRIS,Expenses,Wednesday,2026-01
+2026-01-22,Makan malam Warteg,25704,Food & Dining,QRIS,Expenses,Thursday,2026-01
+2026-01-22,Tiket nonton bioskop XXI,37367,Entertainment,QRIS,Expenses,Thursday,2026-01
+2026-01-23,Kebutuhan harian Alfamart,48338,Groceries,QRIS,Expenses,Friday,2026-01
+2026-01-23,Beli cemilan & air mineral,13298,Groceries,QRIS,Expenses,Friday,2026-01
+2026-01-24,Gojek ke stasiun,30327,Transportation,QRIS,Expenses,Saturday,2026-01
+2026-01-24,Makan malam Warteg,32344,Food & Dining,Tunai,Expenses,Saturday,2026-01
+2026-01-25,Top up e-money Commuter Line,34174,Transportation,Tunai,Expenses,Sunday,2026-01
+2026-01-25,Isi bensin Pertalite motor,19973,Transportation,QRIS,Expenses,Sunday,2026-01
+2026-01-25,Makan Shihlin / McD,12181,Food & Dining,QRIS,Expenses,Sunday,2026-01
+2026-01-26,Nasi Padang lauk ayam,28083,Food & Dining,QRIS,Expenses,Monday,2026-01
+2026-01-26,Top up saldo e-wallet harian,11897,Bills & Utilities,QRIS,Expenses,Monday,2026-01
+2026-01-26,Top up saldo e-wallet harian,32747,Bills & Utilities,QRIS,Expenses,Monday,2026-01
+2026-01-27,Top up voucher game,18706,Entertainment,QRIS,Expenses,Tuesday,2026-01
+2026-01-27,Top up saldo e-wallet harian,29482,Bills & Utilities,Tunai,Expenses,Tuesday,2026-01
+2026-01-27,Isi pulsa paket data internet,15117,Bills & Utilities,QRIS,Expenses,Tuesday,2026-01
+2026-01-28,Gojek ke stasiun,34749,Transportation,QRIS,Expenses,Wednesday,2026-01
+2026-01-29,Checkout barang di Tokopedia,38452,Shopping,QRIS,Expenses,Thursday,2026-01
+2026-01-29,Sarapan bubur ayam komplek,11440,Food & Dining,QRIS,Expenses,Thursday,2026-01
+2026-01-30,Langganan Spotify Premium,34249,Entertainment,QRIS,Expenses,Friday,2026-01
+2026-01-30,Isi pulsa paket data internet,20704,Bills & Utilities,QRIS,Expenses,Friday,2026-01
+2026-01-31,Beli aksesoris gadget,42742,Shopping,QRIS,Expenses,Saturday,2026-01
+2026-01-31,Makan malam Warteg,25868,Food & Dining,QRIS,Expenses,Saturday,2026-01
+2026-02-01,Uang Saku Bulanan dari Ortu,2000000,Allowance / Salary,Transfer Bank,Income,Sunday,2026-02
+2026-02-01,Top up voucher game,12716,Entertainment,QRIS,Expenses,Sunday,2026-02
+2026-02-01,Tiket nonton bioskop XXI,23382,Entertainment,QRIS,Expenses,Sunday,2026-02
+2026-02-02,Jajan Mixue bareng teman,29716,Food & Dining,QRIS,Expenses,Monday,2026-02
+2026-02-02,Beli aksesoris gadget,28074,Shopping,QRIS,Expenses,Monday,2026-02
+2026-02-03,Print laporan praktikum,43434,Education,QRIS,Expenses,Tuesday,2026-02
+2026-02-03,Makan siang di kantin kampus,23019,Food & Dining,Tunai,Expenses,Tuesday,2026-02
+2026-02-04,Beli cemilan & air mineral,35129,Groceries,QRIS,Expenses,Wednesday,2026-02
+2026-02-05,Top up saldo e-wallet harian,34093,Bills & Utilities,Tunai,Expenses,Thursday,2026-02
+2026-02-05,Beli Kopi Susu Kekinian,27733,Food & Dining,QRIS,Expenses,Thursday,2026-02
+2026-02-06,Beli aksesoris gadget,33084,Shopping,QRIS,Expenses,Friday,2026-02
+2026-02-06,Nasi Padang lauk ayam,31381,Food & Dining,QRIS,Expenses,Friday,2026-02
+2026-02-07,Makan Shihlin / McD,11780,Food & Dining,QRIS,Expenses,Saturday,2026-02
+2026-02-07,Makan malam Warteg,25968,Food & Dining,QRIS,Expenses,Saturday,2026-02
+2026-02-07,Makan malam Warteg,14607,Food & Dining,QRIS,Expenses,Saturday,2026-02
+2026-02-07,Langganan Spotify Premium,15720,Entertainment,QRIS,Expenses,Saturday,2026-02
+2026-02-08,Makan siang di kantin kampus,24235,Food & Dining,Tunai,Expenses,Sunday,2026-02
+2026-02-08,Isi pulsa paket data internet,23252,Bills & Utilities,Tunai,Expenses,Sunday,2026-02
+2026-02-09,Tiket nonton bioskop XXI,59556,Entertainment,QRIS,Expenses,Monday,2026-02
+2026-02-10,Langganan Spotify Premium,12929,Entertainment,QRIS,Expenses,Tuesday,2026-02
+2026-02-10,Sarapan bubur ayam komplek,35429,Food & Dining,Tunai,Expenses,Tuesday,2026-02
+2026-02-11,Beli Kopi Susu Kekinian,56897,Food & Dining,Tunai,Expenses,Wednesday,2026-02
+2026-02-12,Isi bensin Pertalite motor,35499,Transportation,QRIS,Expenses,Thursday,2026-02
+2026-02-12,Nasi Padang lauk ayam,30042,Food & Dining,Tunai,Expenses,Thursday,2026-02
+2026-02-13,Nasi Padang lauk ayam,45950,Food & Dining,QRIS,Expenses,Friday,2026-02
+2026-02-14,Sarapan bubur ayam komplek,15272,Food & Dining,QRIS,Expenses,Saturday,2026-02
+2026-02-14,Makan malam Warteg,20707,Food & Dining,QRIS,Expenses,Saturday,2026-02
+2026-02-14,Beli kaos polos Shopee,24919,Shopping,QRIS,Expenses,Saturday,2026-02
+2026-02-15,Makan malam Warteg,14139,Food & Dining,Tunai,Expenses,Sunday,2026-02
+2026-02-15,Print laporan praktikum,21165,Education,Tunai,Expenses,Sunday,2026-02
+2026-02-15,Nasi Padang lauk ayam,35271,Food & Dining,QRIS,Expenses,Sunday,2026-02
+2026-02-16,Beli aksesoris gadget,24099,Shopping,QRIS,Expenses,Monday,2026-02
+2026-02-16,Makan Shihlin / McD,27125,Food & Dining,QRIS,Expenses,Monday,2026-02
+2026-02-16,Bayar parkir mall/kampus,22013,Others,Tunai,Expenses,Monday,2026-02
+2026-02-17,Nongkrong di Coffee Shop,24367,Food & Dining,Tunai,Expenses,Tuesday,2026-02
+2026-02-17,Makan malam Warteg,33723,Food & Dining,QRIS,Expenses,Tuesday,2026-02
+2026-02-18,Gojek ke stasiun,31161,Transportation,QRIS,Expenses,Wednesday,2026-02
+2026-02-18,Nasi Padang lauk ayam,25884,Food & Dining,Tunai,Expenses,Wednesday,2026-02
+2026-02-19,Print laporan praktikum,28694,Education,QRIS,Expenses,Thursday,2026-02
+2026-02-19,Jajan Mixue bareng teman,33268,Food & Dining,QRIS,Expenses,Thursday,2026-02
+2026-02-20,Tiket nonton bioskop XXI,56488,Entertainment,Tunai,Expenses,Friday,2026-02
+2026-02-21,Kebutuhan harian Alfamart,18354,Groceries,Tunai,Expenses,Saturday,2026-02
+2026-02-21,Fotokopi tugas kuliah,20185,Education,QRIS,Expenses,Saturday,2026-02
+2026-02-22,Tiket nonton bioskop XXI,33497,Entertainment,QRIS,Expenses,Sunday,2026-02
+2026-02-22,Makan siang di kantin kampus,8954,Food & Dining,QRIS,Expenses,Sunday,2026-02
+2026-02-22,Langganan Spotify Premium,23513,Entertainment,QRIS,Expenses,Sunday,2026-02
+2026-02-23,Gojek ke stasiun,20177,Transportation,QRIS,Expenses,Monday,2026-02
+2026-02-23,Beli kaos polos Shopee,44526,Shopping,QRIS,Expenses,Monday,2026-02
+2026-02-24,Langganan Spotify Premium,23588,Entertainment,Tunai,Expenses,Tuesday,2026-02
+2026-02-24,Nasi Padang lauk ayam,23955,Food & Dining,Tunai,Expenses,Tuesday,2026-02
+2026-02-25,Makan Shihlin / McD,31779,Food & Dining,QRIS,Expenses,Wednesday,2026-02
+2026-02-25,Langganan Spotify Premium,31327,Entertainment,QRIS,Expenses,Wednesday,2026-02
+2026-02-26,Nongkrong di Coffee Shop,33067,Food & Dining,QRIS,Expenses,Thursday,2026-02
+2026-02-27,Gojek ke stasiun,18260,Transportation,QRIS,Expenses,Friday,2026-02
+2026-02-27,Beli Kopi Susu Kekinian,24058,Food & Dining,QRIS,Expenses,Friday,2026-02
+2026-02-28,Makan Shihlin / McD,42840,Food & Dining,QRIS,Expenses,Saturday,2026-02
+2026-03-01,Uang Saku Bulanan dari Ortu,2000000,Allowance / Salary,Transfer Bank,Income,Sunday,2026-03
+2026-03-01,Nasi Padang lauk ayam,49261,Food & Dining,QRIS,Expenses,Sunday,2026-03
+2026-03-02,Makan siang di kantin kampus,40632,Food & Dining,QRIS,Expenses,Monday,2026-03
+2026-03-03,Sarapan bubur ayam komplek,41830,Food & Dining,Tunai,Expenses,Tuesday,2026-03
+2026-03-04,Beli kaos polos Shopee,38368,Shopping,QRIS,Expenses,Wednesday,2026-03
+2026-03-04,Checkout barang di Tokopedia,25212,Shopping,QRIS,Expenses,Wednesday,2026-03
+2026-03-05,Gojek ke stasiun,20751,Transportation,QRIS,Expenses,Thursday,2026-03
+2026-03-05,Nasi Padang lauk ayam,51098,Food & Dining,QRIS,Expenses,Thursday,2026-03
+2026-03-06,Makan Shihlin / McD,11882,Food & Dining,QRIS,Expenses,Friday,2026-03
+2026-03-06,Makan malam Warteg,28496,Food & Dining,QRIS,Expenses,Friday,2026-03
+2026-03-07,Beli kaos polos Shopee,26236,Shopping,QRIS,Expenses,Saturday,2026-03
+2026-03-07,Jajan Mixue bareng teman,34564,Food & Dining,QRIS,Expenses,Saturday,2026-03
+2026-03-08,Top up e-money Commuter Line,35209,Transportation,QRIS,Expenses,Sunday,2026-03
+2026-03-09,Patungan kado teman wisuda,26645,Others,QRIS,Expenses,Monday,2026-03
+2026-03-09,Nongkrong di Coffee Shop,14028,Food & Dining,QRIS,Expenses,Monday,2026-03
+2026-03-10,Nongkrong di Coffee Shop,42526,Food & Dining,QRIS,Expenses,Tuesday,2026-03
+2026-03-10,Makan Shihlin / McD,25935,Food & Dining,QRIS,Expenses,Tuesday,2026-03
+2026-03-11,Langganan Spotify Premium,16050,Entertainment,QRIS,Expenses,Wednesday,2026-03
+2026-03-11,Checkout barang di Tokopedia,25089,Shopping,QRIS,Expenses,Wednesday,2026-03
+2026-03-12,Iuran kas angkatan,35231,Education,QRIS,Expenses,Thursday,2026-03
+2026-03-13,Beli cemilan & air mineral,38607,Groceries,QRIS,Expenses,Friday,2026-03
+2026-03-14,Makan malam Warteg,54860,Food & Dining,QRIS,Expenses,Saturday,2026-03
+2026-03-14,Langganan Spotify Premium,21283,Entertainment,QRIS,Expenses,Saturday,2026-03
+2026-03-15,Nasi Padang lauk ayam,31362,Food & Dining,QRIS,Expenses,Sunday,2026-03
+2026-03-15,Nongkrong di Coffee Shop,14529,Food & Dining,QRIS,Expenses,Sunday,2026-03
+2026-03-15,Beli aksesoris gadget,10976,Shopping,Tunai,Expenses,Sunday,2026-03
+2026-03-15,Top up saldo e-wallet harian,17868,Bills & Utilities,QRIS,Expenses,Sunday,2026-03
+2026-03-16,Makan malam Warteg,39214,Food & Dining,Tunai,Expenses,Monday,2026-03
+2026-03-17,Checkout barang di Tokopedia,20968,Shopping,Tunai,Expenses,Tuesday,2026-03
+2026-03-17,Jajan Mixue bareng teman,32285,Food & Dining,QRIS,Expenses,Tuesday,2026-03
+2026-03-17,Nongkrong di Coffee Shop,21694,Food & Dining,Tunai,Expenses,Tuesday,2026-03
+2026-03-18,Top up e-money Commuter Line,21855,Transportation,Tunai,Expenses,Wednesday,2026-03
+2026-03-18,Sarapan bubur ayam komplek,14167,Food & Dining,QRIS,Expenses,Wednesday,2026-03
+2026-03-19,Top up voucher game,42891,Entertainment,QRIS,Expenses,Thursday,2026-03
+2026-03-20,Beli aksesoris gadget,18517,Shopping,QRIS,Expenses,Friday,2026-03
+2026-03-20,Nasi Padang lauk ayam,21481,Food & Dining,QRIS,Expenses,Friday,2026-03
+2026-03-20,Top up e-money Commuter Line,33291,Transportation,Tunai,Expenses,Friday,2026-03
+2026-03-21,Sarapan bubur ayam komplek,46749,Food & Dining,Tunai,Expenses,Saturday,2026-03
+2026-03-22,Sarapan bubur ayam komplek,43362,Food & Dining,Tunai,Expenses,Sunday,2026-03
+2026-03-22,Checkout barang di Tokopedia,32867,Shopping,QRIS,Expenses,Sunday,2026-03
+2026-03-23,Print laporan praktikum,13121,Education,Tunai,Expenses,Monday,2026-03
+2026-03-23,Sarapan bubur ayam komplek,22488,Food & Dining,Tunai,Expenses,Monday,2026-03
+2026-03-24,Isi bensin Pertalite motor,21911,Transportation,Tunai,Expenses,Tuesday,2026-03
+2026-03-24,Tiket nonton bioskop XXI,16894,Entertainment,QRIS,Expenses,Tuesday,2026-03
+2026-03-25,Makan siang di kantin kampus,25604,Food & Dining,Tunai,Expenses,Wednesday,2026-03
+2026-03-25,Top up voucher game,17402,Entertainment,QRIS,Expenses,Wednesday,2026-03
+2026-03-25,Sarapan bubur ayam komplek,20463,Food & Dining,QRIS,Expenses,Wednesday,2026-03
+2026-03-26,Beli cemilan & air mineral,39449,Groceries,QRIS,Expenses,Thursday,2026-03
+2026-03-26,Top up e-money Commuter Line,11449,Transportation,QRIS,Expenses,Thursday,2026-03
+2026-03-27,Patungan kado teman wisuda,18015,Others,QRIS,Expenses,Friday,2026-03
+2026-03-27,Top up e-money Commuter Line,29479,Transportation,QRIS,Expenses,Friday,2026-03
+2026-03-27,Beli cemilan & air mineral,23417,Groceries,Tunai,Expenses,Friday,2026-03
+2026-03-28,Beli cemilan & air mineral,25555,Groceries,QRIS,Expenses,Saturday,2026-03
+2026-03-28,Beli Kopi Susu Kekinian,42667,Food & Dining,Tunai,Expenses,Saturday,2026-03
+2026-03-29,Top up e-money Commuter Line,52716,Transportation,QRIS,Expenses,Sunday,2026-03
+2026-03-30,Beli cemilan & air mineral,29294,Groceries,QRIS,Expenses,Monday,2026-03
+2026-03-30,Nongkrong di Coffee Shop,29720,Food & Dining,Tunai,Expenses,Monday,2026-03
+2026-03-31,Nasi Padang lauk ayam,26407,Food & Dining,QRIS,Expenses,Tuesday,2026-03
+2026-03-31,Bayar parkir mall/kampus,16080,Others,QRIS,Expenses,Tuesday,2026-03
+2026-04-01,Uang Saku Bulanan dari Ortu,2000000,Allowance / Salary,Transfer Bank,Income,Wednesday,2026-04
+2026-04-01,Tiket nonton bioskop XXI,31310,Entertainment,Tunai,Expenses,Wednesday,2026-04
+2026-04-01,Gojek ke stasiun,13373,Transportation,QRIS,Expenses,Wednesday,2026-04
+2026-04-02,Sarapan bubur ayam komplek,27158,Food & Dining,Tunai,Expenses,Thursday,2026-04
+2026-04-02,Nongkrong di Coffee Shop,33414,Food & Dining,QRIS,Expenses,Thursday,2026-04
+2026-04-03,Sarapan bubur ayam komplek,54028,Food & Dining,QRIS,Expenses,Friday,2026-04
+2026-04-04,Makan Shihlin / McD,18773,Food & Dining,QRIS,Expenses,Saturday,2026-04
+2026-04-04,Beli kaos polos Shopee,62316,Shopping,QRIS,Expenses,Saturday,2026-04
+2026-04-05,Top up voucher game,29838,Entertainment,Tunai,Expenses,Sunday,2026-04
+2026-04-05,Nasi Padang lauk ayam,37448,Food & Dining,QRIS,Expenses,Sunday,2026-04
+2026-04-05,Checkout barang di Tokopedia,27177,Shopping,QRIS,Expenses,Sunday,2026-04
+2026-04-06,Top up voucher game,27273,Entertainment,Tunai,Expenses,Monday,2026-04
+2026-04-06,Top up voucher game,21045,Entertainment,Tunai,Expenses,Monday,2026-04
+2026-04-06,Patungan kado teman wisuda,10627,Others,QRIS,Expenses,Monday,2026-04
+2026-04-06,Beli aksesoris gadget,30176,Shopping,Tunai,Expenses,Monday,2026-04
+2026-04-07,Sarapan bubur ayam komplek,29954,Food & Dining,QRIS,Expenses,Tuesday,2026-04
+2026-04-07,Patungan kado teman wisuda,27465,Others,QRIS,Expenses,Tuesday,2026-04
+2026-04-08,Patungan kado teman wisuda,21922,Others,QRIS,Expenses,Wednesday,2026-04
+2026-04-08,Nasi Padang lauk ayam,23117,Food & Dining,Tunai,Expenses,Wednesday,2026-04
+2026-04-09,Beli kaos polos Shopee,58787,Shopping,QRIS,Expenses,Thursday,2026-04
+2026-04-09,Tiket nonton bioskop XXI,36718,Entertainment,QRIS,Expenses,Thursday,2026-04
+2026-04-10,Tiket nonton bioskop XXI,22622,Entertainment,QRIS,Expenses,Friday,2026-04
+2026-04-10,Makan malam Warteg,21130,Food & Dining,QRIS,Expenses,Friday,2026-04
+2026-04-11,Bayar parkir mall/kampus,41747,Others,Tunai,Expenses,Saturday,2026-04
+2026-04-11,Beli kaos polos Shopee,22573,Shopping,QRIS,Expenses,Saturday,2026-04
+2026-04-11,Jajan Mixue bareng teman,34888,Food & Dining,Tunai,Expenses,Saturday,2026-04
+2026-04-11,Top up voucher game,46273,Entertainment,QRIS,Expenses,Saturday,2026-04
+2026-04-12,Nongkrong di Coffee Shop,40956,Food & Dining,QRIS,Expenses,Sunday,2026-04
+2026-04-12,Tiket nonton bioskop XXI,26686,Entertainment,QRIS,Expenses,Sunday,2026-04
+2026-04-12,Makan malam Warteg,35630,Food & Dining,QRIS,Expenses,Sunday,2026-04
+2026-04-13,Bayar parkir mall/kampus,38430,Others,Tunai,Expenses,Monday,2026-04
+2026-04-13,Top up e-money Commuter Line,16209,Transportation,Tunai,Expenses,Monday,2026-04
+2026-04-14,Sarapan bubur ayam komplek,49173,Food & Dining,QRIS,Expenses,Tuesday,2026-04
+2026-04-15,Checkout barang di Tokopedia,13118,Shopping,Tunai,Expenses,Wednesday,2026-04
+2026-04-15,Patungan kado teman wisuda,21690,Others,Tunai,Expenses,Wednesday,2026-04
+2026-04-15,Beli cemilan & air mineral,32043,Groceries,Tunai,Expenses,Wednesday,2026-04
+2026-04-16,Nongkrong di Coffee Shop,29018,Food & Dining,QRIS,Expenses,Thursday,2026-04
+2026-04-16,Fotokopi tugas kuliah,38804,Education,QRIS,Expenses,Thursday,2026-04
+2026-04-17,Beli aksesoris gadget,33991,Shopping,Tunai,Expenses,Friday,2026-04
+2026-04-17,Fotokopi tugas kuliah,17837,Education,QRIS,Expenses,Friday,2026-04
+2026-04-18,Patungan kado teman wisuda,120114,Others,QRIS,Expenses,Saturday,2026-04
+2026-04-18,Bayar parkir mall/kampus,33033,Others,Tunai,Expenses,Saturday,2026-04
+2026-04-19,Makan siang di kantin kampus,25648,Food & Dining,QRIS,Expenses,Sunday,2026-04
+2026-04-19,Patungan kado teman wisuda,73118,Others,QRIS,Expenses,Sunday,2026-04
+2026-04-20,Makan Shihlin / McD,20561,Food & Dining,QRIS,Expenses,Monday,2026-04
+2026-04-20,Langganan Spotify Premium,24164,Entertainment,Tunai,Expenses,Monday,2026-04
+2026-04-20,Makan malam Warteg,22178,Food & Dining,QRIS,Expenses,Monday,2026-04
+2026-04-21,Checkout barang di Tokopedia,26234,Shopping,QRIS,Expenses,Tuesday,2026-04
+2026-04-21,Nongkrong di Coffee Shop,31554,Food & Dining,QRIS,Expenses,Tuesday,2026-04
+2026-04-21,Patungan kado teman wisuda,21983,Others,QRIS,Expenses,Tuesday,2026-04
+2026-04-22,Top up saldo e-wallet harian,25510,Bills & Utilities,QRIS,Expenses,Wednesday,2026-04
+2026-04-22,Kebutuhan harian Alfamart,34848,Groceries,QRIS,Expenses,Wednesday,2026-04
+2026-04-23,Bayar parkir mall/kampus,33663,Others,QRIS,Expenses,Thursday,2026-04
+2026-04-23,Fotokopi tugas kuliah,27769,Education,QRIS,Expenses,Thursday,2026-04
+2026-04-24,Bayar parkir mall/kampus,31342,Others,QRIS,Expenses,Friday,2026-04
+2026-04-24,Gojek ke stasiun,48191,Transportation,QRIS,Expenses,Friday,2026-04
+2026-04-25,Makan siang di kantin kampus,44982,Food & Dining,QRIS,Expenses,Saturday,2026-04
+2026-04-25,Bayar parkir mall/kampus,40880,Others,Tunai,Expenses,Saturday,2026-04
+2026-04-25,Checkout barang di Tokopedia,42179,Shopping,QRIS,Expenses,Saturday,2026-04
+2026-04-26,Isi pulsa paket data internet,36724,Bills & Utilities,QRIS,Expenses,Sunday,2026-04
+2026-04-26,Beli Kopi Susu Kekinian,73237,Food & Dining,QRIS,Expenses,Sunday,2026-04
+2026-04-27,Bayar parkir mall/kampus,21702,Others,QRIS,Expenses,Monday,2026-04
+2026-04-27,Nasi Padang lauk ayam,18229,Food & Dining,QRIS,Expenses,Monday,2026-04
+2026-04-27,Checkout barang di Tokopedia,6698,Shopping,Tunai,Expenses,Monday,2026-04
+2026-04-27,Sarapan bubur ayam komplek,16392,Food & Dining,Tunai,Expenses,Monday,2026-04
+2026-04-28,Bayar parkir mall/kampus,30502,Others,Tunai,Expenses,Tuesday,2026-04
+2026-04-28,Isi bensin Pertalite motor,18713,Transportation,QRIS,Expenses,Tuesday,2026-04
+2026-04-28,Makan malam Warteg,26383,Food & Dining,QRIS,Expenses,Tuesday,2026-04
+2026-04-29,Top up saldo e-wallet harian,32633,Bills & Utilities,QRIS,Expenses,Wednesday,2026-04
+2026-04-29,Isi bensin Pertalite motor,11208,Transportation,QRIS,Expenses,Wednesday,2026-04
+2026-04-30,Makan siang di kantin kampus,18681,Food & Dining,QRIS,Expenses,Thursday,2026-04
+2026-04-30,Top up voucher game,15988,Entertainment,QRIS,Expenses,Thursday,2026-04
+2026-04-30,Makan siang di kantin kampus,12277,Food & Dining,QRIS,Expenses,Thursday,2026-04
+2026-04-30,Makan Shihlin / McD,27945,Food & Dining,QRIS,Expenses,Thursday,2026-04
+2026-05-01,Uang Saku Bulanan dari Ortu,2000000,Allowance / Salary,Transfer Bank,Income,Friday,2026-05
+2026-05-01,Makan malam Warteg,20456,Food & Dining,QRIS,Expenses,Friday,2026-05
+2026-05-01,Makan malam Warteg,13415,Food & Dining,QRIS,Expenses,Friday,2026-05
+2026-05-02,Sarapan bubur ayam komplek,29529,Food & Dining,QRIS,Expenses,Saturday,2026-05
+2026-05-02,Beli cemilan & air mineral,20244,Groceries,QRIS,Expenses,Saturday,2026-05
+2026-05-03,Kebutuhan harian Alfamart,37432,Groceries,QRIS,Expenses,Sunday,2026-05
+2026-05-04,Makan siang di kantin kampus,47145,Food & Dining,QRIS,Expenses,Monday,2026-05
+2026-05-05,Beli cemilan & air mineral,33041,Groceries,QRIS,Expenses,Tuesday,2026-05
+2026-05-06,Print laporan praktikum,19315,Education,QRIS,Expenses,Wednesday,2026-05
+2026-05-06,Beli cemilan & air mineral,24573,Groceries,Tunai,Expenses,Wednesday,2026-05
+2026-05-07,Top up voucher game,36140,Entertainment,QRIS,Expenses,Thursday,2026-05
+2026-05-08,Beli aksesoris gadget,20759,Shopping,Tunai,Expenses,Friday,2026-05
+2026-05-08,Jajan Mixue bareng teman,19807,Food & Dining,Tunai,Expenses,Friday,2026-05
+2026-05-09,Makan malam Warteg,18570,Food & Dining,QRIS,Expenses,Saturday,2026-05
+2026-05-09,Beli kaos polos Shopee,12739,Shopping,Tunai,Expenses,Saturday,2026-05
+2026-05-10,Langganan Spotify Premium,23159,Entertainment,QRIS,Expenses,Sunday,2026-05
+2026-05-10,Sarapan bubur ayam komplek,23099,Food & Dining,QRIS,Expenses,Sunday,2026-05
+2026-05-11,Makan Shihlin / McD,46222,Food & Dining,Tunai,Expenses,Monday,2026-05
+2026-05-12,Top up saldo e-wallet harian,29252,Bills & Utilities,QRIS,Expenses,Tuesday,2026-05
+2026-05-12,Top up e-money Commuter Line,8090,Transportation,QRIS,Expenses,Tuesday,2026-05
+2026-05-13,Isi bensin Pertalite motor,16538,Transportation,QRIS,Expenses,Wednesday,2026-05
+2026-05-13,Checkout barang di Tokopedia,25907,Shopping,QRIS,Expenses,Wednesday,2026-05
+2026-05-14,Kebutuhan harian Alfamart,29378,Groceries,Tunai,Expenses,Thursday,2026-05
+2026-05-15,Sarapan bubur ayam komplek,42563,Food & Dining,QRIS,Expenses,Friday,2026-05
+2026-05-16,Isi pulsa paket data internet,23845,Bills & Utilities,QRIS,Expenses,Saturday,2026-05
+2026-05-17,Iuran kas angkatan,33911,Education,QRIS,Expenses,Sunday,2026-05
+2026-05-18,Nasi Padang lauk ayam,47061,Food & Dining,Tunai,Expenses,Monday,2026-05
+2026-05-19,Beli Kopi Susu Kekinian,44046,Food & Dining,QRIS,Expenses,Tuesday,2026-05
+2026-05-20,Print laporan praktikum,27735,Education,QRIS,Expenses,Wednesday,2026-05
+2026-05-21,Isi bensin Pertalite motor,17035,Transportation,QRIS,Expenses,Thursday,2026-05
+2026-05-21,Isi bensin Pertalite motor,26387,Transportation,Tunai,Expenses,Thursday,2026-05
+2026-05-22,Nasi Padang lauk ayam,26557,Food & Dining,QRIS,Expenses,Friday,2026-05
+2026-05-22,Isi bensin Pertalite motor,12291,Transportation,QRIS,Expenses,Friday,2026-05
+2026-05-23,Print laporan praktikum,44228,Education,QRIS,Expenses,Saturday,2026-05
+2026-05-24,Jajan Mixue bareng teman,47119,Food & Dining,QRIS,Expenses,Sunday,2026-05
+2026-05-25,Print laporan praktikum,19430,Education,Tunai,Expenses,Monday,2026-05
+2026-05-25,Checkout barang di Tokopedia,15226,Shopping,QRIS,Expenses,Monday,2026-05
+2026-05-26,Gojek ke stasiun,31851,Transportation,QRIS,Expenses,Tuesday,2026-05
+2026-05-27,Bayar parkir mall/kampus,30018,Others,QRIS,Expenses,Wednesday,2026-05
+2026-05-27,Beli cemilan & air mineral,19236,Groceries,QRIS,Expenses,Wednesday,2026-05
+2026-05-28,Top up voucher game,28822,Entertainment,QRIS,Expenses,Thursday,2026-05
+2026-05-29,Makan malam Warteg,40117,Food & Dining,QRIS,Expenses,Friday,2026-05
+2026-05-30,Makan siang di kantin kampus,26078,Food & Dining,Tunai,Expenses,Saturday,2026-05
+2026-05-31,Top up saldo e-wallet harian,41634,Bills & Utilities,QRIS,Expenses,Sunday,2026-05
+2026-06-01,Uang Saku Bulanan dari Ortu,2000000,Allowance / Salary,Transfer Bank,Income,Monday,2026-06
+2026-06-01,Beli Kopi Susu Kekinian,41428,Food & Dining,QRIS,Expenses,Monday,2026-06
+2026-06-02,Top up saldo e-wallet harian,43151,Bills & Utilities,QRIS,Expenses,Tuesday,2026-06
+2026-06-03,Sarapan bubur ayam komplek,15744,Food & Dining,QRIS,Expenses,Wednesday,2026-06
+2026-06-03,Gojek ke stasiun,19853,Transportation,Tunai,Expenses,Wednesday,2026-06
+2026-06-04,Top up e-money Commuter Line,11806,Transportation,QRIS,Expenses,Thursday,2026-06
+2026-06-04,Gojek ke stasiun,29093,Transportation,QRIS,Expenses,Thursday,2026-06
+2026-06-05,Kebutuhan harian Alfamart,38342,Groceries,QRIS,Expenses,Friday,2026-06
+2026-06-06,Nasi Padang lauk ayam,36304,Food & Dining,QRIS,Expenses,Saturday,2026-06
+2026-06-07,Checkout barang di Tokopedia,33111,Shopping,Tunai,Expenses,Sunday,2026-06
+2026-06-08,Isi bensin Pertalite motor,14146,Transportation,QRIS,Expenses,Monday,2026-06
+2026-06-08,Isi bensin Pertalite motor,20663,Transportation,QRIS,Expenses,Monday,2026-06
+2026-06-09,Makan siang di kantin kampus,29541,Food & Dining,Tunai,Expenses,Tuesday,2026-06
+2026-06-10,Makan siang di kantin kampus,27551,Food & Dining,Tunai,Expenses,Wednesday,2026-06
+2026-06-11,Makan siang di kantin kampus,49280,Food & Dining,Tunai,Expenses,Thursday,2026-06
+2026-06-12,Print laporan praktikum,33878,Education,Tunai,Expenses,Friday,2026-06
+2026-06-13,Makan malam Warteg,18105,Food & Dining,Tunai,Expenses,Saturday,2026-06
+2026-06-13,Kebutuhan harian Alfamart,24323,Groceries,QRIS,Expenses,Saturday,2026-06
+2026-06-14,Makan siang di kantin kampus,26487,Food & Dining,QRIS,Expenses,Sunday,2026-06
+2026-06-14,Gojek ke stasiun,29877,Transportation,QRIS,Expenses,Sunday,2026-06
+2026-06-15,Iuran kas angkatan,37632,Education,QRIS,Expenses,Monday,2026-06
+2026-06-16,Nasi Padang lauk ayam,36377,Food & Dining,QRIS,Expenses,Tuesday,2026-06
+2026-06-17,Beli cemilan & air mineral,12696,Groceries,Tunai,Expenses,Wednesday,2026-06
+2026-06-17,Top up saldo e-wallet harian,23751,Bills & Utilities,QRIS,Expenses,Wednesday,2026-06
+2026-06-18,Beli cemilan & air mineral,16828,Groceries,QRIS,Expenses,Thursday,2026-06
+2026-06-18,Sarapan bubur ayam komplek,22557,Food & Dining,QRIS,Expenses,Thursday,2026-06
+2026-06-19,Print laporan praktikum,29057,Education,QRIS,Expenses,Friday,2026-06
+2026-06-20,Top up e-money Commuter Line,43132,Transportation,Tunai,Expenses,Saturday,2026-06
+2026-06-21,Beli cemilan & air mineral,17934,Groceries,QRIS,Expenses,Sunday,2026-06
+2026-06-21,Makan malam Warteg,26995,Food & Dining,Tunai,Expenses,Sunday,2026-06
+2026-06-22,Makan malam Warteg,30462,Food & Dining,Tunai,Expenses,Monday,2026-06
+2026-06-22,Nasi Padang lauk ayam,25391,Food & Dining,QRIS,Expenses,Monday,2026-06
+2026-06-23,Nasi Padang lauk ayam,32237,Food & Dining,QRIS,Expenses,Tuesday,2026-06
+2026-06-23,Top up e-money Commuter Line,15960,Transportation,QRIS,Expenses,Tuesday,2026-06
+2026-06-24,Makan siang di kantin kampus,34305,Food & Dining,Tunai,Expenses,Wednesday,2026-06
+2026-06-25,Kebutuhan harian Alfamart,27569,Groceries,QRIS,Expenses,Thursday,2026-06
+2026-06-26,Makan malam Warteg,13105,Food & Dining,QRIS,Expenses,Friday,2026-06
+2026-06-26,Sarapan bubur ayam komplek,26735,Food & Dining,QRIS,Expenses,Friday,2026-06
+2026-06-27,Beli Kopi Susu Kekinian,17045,Food & Dining,Tunai,Expenses,Saturday,2026-06
+2026-06-27,Top up saldo e-wallet harian,19336,Bills & Utilities,QRIS,Expenses,Saturday,2026-06
+2026-06-28,Beli kaos polos Shopee,37299,Shopping,QRIS,Expenses,Sunday,2026-06
+2026-06-29,Kebutuhan harian Alfamart,28699,Groceries,QRIS,Expenses,Monday,2026-06
+2026-06-30,Isi bensin Pertalite motor,10957,Transportation,QRIS,Expenses,Tuesday,2026-06
+2026-06-30,Top up e-money Commuter Line,21258,Transportation,QRIS,Expenses,Tuesday,2026-06
